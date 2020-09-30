@@ -1,0 +1,16 @@
+.nvs-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  color: gainsboro;
+}
+
+.text-gains {
+  color: rgb(134, 134, 134);
+}
+
+te
+.bg-gains {
+  background: gainsboro;
+}

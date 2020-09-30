@@ -1,0 +1,23 @@
+.nav-bar {
+  display: flex;
+  background-color: white;
+  height: 10vh;
+  width: 100vw;
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+
+.filler{
+  flex-grow: 1;
+}
+
+.nav-logo{
+  font-weight: 600;
+  font-size: medium;
+  color: #7f24ca;
+  font-family: 'Roboto', sans-serif;
+}
+
+.nav-item{
+  margin-right: 1rem;
+}
